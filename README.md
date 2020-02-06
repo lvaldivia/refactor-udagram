@@ -9,7 +9,7 @@ export $POSTGRESS_DB=name of your db\
 export $AWS_REGION=region of your S3\
 export $AWS_BUCKET=name of the bucke in S3\
 export $AWS_PROFILE=name of the profile of aws configured in AWS Cli\
-export $HOME=path of your aws credentials\
+export $HOME=path of your aws credentials
 
 #Udacity Rest Api Feed
 
