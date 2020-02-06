@@ -2,14 +2,14 @@
 
 To use this images you have to configure enviromental variables like this:
 
-export $POSTGRESS_HOST=url of your host
-export $POSTGRESS_USERNAME=username of your db
-export $POSTGRESS_PASSWORD=password of your db
-export $POSTGRESS_DB=name of your db
-export $AWS_REGION=region of your S3
-export $AWS_BUCKET=name of the bucke in S3
-export $AWS_PROFILE=name of the profile of aws configured in AWS Cli
-export $HOME=path of your aws credentials
+export $POSTGRESS_HOST=url of your host\
+export $POSTGRESS_USERNAME=username of your db\
+export $POSTGRESS_PASSWORD=password of your db\
+export $POSTGRESS_DB=name of your db\
+export $AWS_REGION=region of your S3\
+export $AWS_BUCKET=name of the bucke in S3\
+export $AWS_PROFILE=name of the profile of aws configured in AWS Cli\
+export $HOME=path of your aws credentials\
 
 #Udacity Rest Api Feed
 
