@@ -3,6 +3,9 @@ kind: Pod
 metadata:
   name: pod-example
 spec:
+  selector:
+    matchLabels:
+      k8s-app: filebeat
   containers:
   - image: lvaldiva/reverseproxy
     name: reverseproxy
